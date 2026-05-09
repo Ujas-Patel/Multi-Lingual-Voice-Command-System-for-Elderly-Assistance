@@ -18,7 +18,11 @@ with high reliability.
 Datasets Used:
 
 English Google Speech Commands v0.02:
+
 Train: http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+
 Test: http://download.tensorflow.org/data/speech_commands_test_set_v0.02.tar.gz
+
 Spanish Multilingual Speech Commands Dataset:
+
 https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang
